@@ -1,0 +1,1 @@
+https://github.com/weiningl/bitstarter.git, http://secret-fortress-4279.herokuapp.com
